@@ -1,4 +1,4 @@
-# 🎬 SyncWave
+# 🎬 CoWatch
 
 **Watch videos together, anytime, anywhere.**  
 SyncWave is a React-based web application that lets you watch videos in perfect sync with friends, chat in real-time, and enjoy a seamless, responsive experience.
