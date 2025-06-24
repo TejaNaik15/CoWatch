@@ -1,12 +1,35 @@
-# React + Vite
+# 🎬 SyncWave
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Watch videos together, anytime, anywhere.**  
+SyncWave is a React-based web application that lets you watch videos in perfect sync with friends, chat in real-time, and enjoy a seamless, responsive experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔄 Synchronized video playback across multiple users  
+- 💬 Real-time chat while watching  
+- ⚛️ Built with React for a dynamic UI  
+- 🎨 Styled with Tailwind CSS for modern, responsive design  
+- 📱 Fully responsive for desktop and mobile devices  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, JavaScript, HTML  
+- **Styling**: Tailwind CSS  
+- **State Management**: React Hooks  
+- **Real-time Communication**: (Add your method here, e.g., WebSockets, Firebase)  
+- **Build Tools**: Vite / Create React App / Webpack (choose one depending on your setup)  
+
+---
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- Node.js (v14+ recommended)  
+- npm or yarn  
+
+
